@@ -28,6 +28,9 @@
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
 <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img alt="Java" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+<a href="https://isocpp.org/" target="_blank"><img alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
+<a href="https://www.sql.org/" target="_blank"><img alt="SQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
 
 ---
 
