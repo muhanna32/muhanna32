@@ -36,7 +36,7 @@ Analytical Skills: Exploratory Data Analysis (EDA), Problem Solving, Statistical
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 <a href="https://www.oracle.com/java/" target="_blank"><img alt="Java" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 <a href="https://www.sql.org/" target="_blank"><img alt="SQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
-
+<a href="https://powerbi.microsoft.com/" target="_blank"><img alt="Power BI" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></a>
 ---
 
 
