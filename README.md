@@ -44,7 +44,7 @@ Analytical Skills: Exploratory Data Analysis (EDA), Problem Solving, Statistical
 ### 📬 Contact Me
 
 - 📧 Email: [muhanaalmutairi32@gmail.com]  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
+- 💼 LinkedIn: [Muhanna Almutairi](https://www.linkedin.com/in/muhanna-almutairi-634b31324/)  
 - 🌐 Portfolio: [If you have one]
 
 ---
