@@ -41,26 +41,32 @@ Analytical Skills: Exploratory Data Analysis (EDA), Problem Solving, Statistical
 
 # 📂 Featured Projects & Portfolio
 
-## 🤖 Machine Learning & AI
-| Project | Key Tech | Description | Link |
-| :--- | :--- | :--- | :---: |
-| **Machine Learning From Scratch** | Python, NumPy, Pandas | 9 algorithms implemented from scratch. | [🔗 View](link) |
-| **Superstore Discount** | Scikit-Learn, Streamlit | Discount predictor deployed via Streamlit. | [🔗 View](link) |
-| **Bank Customer Churn** | XGBoost, Power BI | Churn prediction & risk analysis. | [🔗 View]((https://github.com/muhanna32/Customer-Churn)) |
+## 🤖 Machine Learning & Data Science
 
-## 📊 Data Analytics & BI
-| Project | Key Tech | Description | Link |
+| Project | Key Tools & Tech | Description | Repository |
 | :--- | :--- | :--- | :---: |
-| **Netflix Movies & TV Shows** | SQL Server, Power BI | Star Schema modeling & dark-mode dashboard. | [🔗 View](link) |
-| **Customer Shopping Behavior** | Python, MySQL, Power BI | Customer segmentation & revenue drivers. | [🔗 View](link) |
-| **E-Commerce Sales Funnel** | SQL, Power BI, DAX | Conversion funnel drop-off analysis. | [🔗 View](link) |
+| **Machine Learning From Scratch** | Python, NumPy, Pandas, Matplotlib | **Educational ML & Data Science:** Implements 9 foundational algorithms from scratch.<br>Focuses on pure matrix operations, vectorization, and underlying math without high-level frameworks. | [🔗 View Code](https://github.com/muhanna32/ML-FROM-SCRATCH) |
+| **Bank Customer Churn** | Python, Scikit-Learn, XGBoost, SQL Server, Power BI | **Data Science & BI:** Predicts churn and calculates capital at risk using SQL and ML (XGBoost/Random Forest).<br>Features interactive Power BI retention dashboards for strategic business decision-making. | [🔗 View Code](https://github.com/muhanna32/Customer-Churn) |
+| **Superstore Discount Predictor** | Python, Scikit-Learn, Pandas, Streamlit | **Machine Learning & Web App:** Trains a Random Forest model to predict optimal discount rates from sales features.<br>Exported as a pipeline and deployed via Streamlit for real-time inference. | [🔗 View Code](https://github.com/muhanna32/SuperStore_Predict) |
+
+---
+
+## 📊 Data Analytics & Business Intelligence
+
+| Project | Key Tools & Tech | Description | Repository |
+| :--- | :--- | :--- | :---: |
+| **Customer Shopping Behavior** | Python, Pandas, MySQL, Power BI | **Data Analytics & Data Engineering:** Combines Python cleaning, SQL querying, and feature engineering.<br>Uncovers customer segments, behavioral trends, and revenue drivers in Power BI. | [🔗 View Code](https://github.com/muhanna32/customer_shopping_behavior) |
+| **Netflix Movies & TV Shows** | SQL Server, Power Query, DAX, Power BI | **Business Intelligence & Data Modeling:** Transforms raw streaming data using Star Schema modeling and DAX.<br>Includes a dark-mode Power BI dashboard tracking metrics, seasonality, and global trends. | [🔗 View Code](https://github.com/muhanna32/Netflix-Data-Analysis) |
+| **E-Commerce Sales Funnel** | SQL, Power Query, DAX, Power BI | **Data Analytics & BI:** Analyzes 5,000 visitor journeys to identify conversion funnel drop-offs.<br>Provides actionable recommendations for marketing budget reallocation and ROI optimization. | [🔗 View Code](https://github.com/muhanna32/Ecommerce-Sales-Funnel-Analysis) |
+
+---
 
 ## 🧹 Data Engineering & Cleaning
-| Project | Key Tech | Description | Link |
-| :--- | :--- | :--- | :---: |
-| **Cafe Sales Data Cleaning** | Python, MySQL, Excel | Multi-platform cleaning pipeline for 10k rows. | [🔗 View](link) |
-| **Zepto E-Commerce** | PostgreSQL, SQL | Price anomaly resolution & EDA. | [🔗 View](link) |
 
+| Project | Key Tools & Tech | Description | Repository |
+| :--- | :--- | :--- | :---: |
+| **Cafe Sales Data Cleaning** | Python, Pandas, MySQL, Power BI, Excel | **Data Cleaning & Quality Assurance:** Standardized pipeline cleaning 10k records across multiple tools.<br>Fixes missing values, data types, and business logic to guarantee cross-platform data integrity. | [🔗 View Code](https://github.com/muhanna32/Cafe-Sales-Data-) |
+| **Zepto E-Commerce Analysis** | PostgreSQL, SQL | **Data Engineering & EDA:** Audits quick-commerce datasets using PostgreSQL to fix pricing anomalies.<br>Standardizes currency formats and evaluates inventory weight and discount distributions. | [🔗 View Code](https://github.com/muhanna32/Zepto-E-Commerce) |
 ### 📬 Contact Me
 
 - 📧 Email: [muhanaalmutairi32@gmail.com]  
