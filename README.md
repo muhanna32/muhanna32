@@ -46,7 +46,7 @@ Analytical Skills: Exploratory Data Analysis (EDA), Problem Solving, Statistical
 | :--- | :--- | :--- | :---: |
 | **Machine Learning From Scratch** | Python, NumPy, Pandas | 9 algorithms implemented from scratch. | [🔗 View](link) |
 | **Superstore Discount** | Scikit-Learn, Streamlit | Discount predictor deployed via Streamlit. | [🔗 View](link) |
-| **Bank Customer Churn** | XGBoost, Power BI | Churn prediction & risk analysis. | [🔗 View](link) |
+| **Bank Customer Churn** | XGBoost, Power BI | Churn prediction & risk analysis. | [🔗 View]([link](https://github.com/muhanna32/Customer-Churn)) |
 
 ## 📊 Data Analytics & BI
 | Project | Key Tech | Description | Link |
