@@ -39,7 +39,27 @@ Analytical Skills: Exploratory Data Analysis (EDA), Problem Solving, Statistical
 <a href="https://powerbi.microsoft.com/" target="_blank"><img alt="Power BI" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></a>
 ---
 
+# 📂 Featured Projects & Portfolio
 
+## 🤖 Machine Learning & AI
+| Project | Key Tech | Description | Link |
+| :--- | :--- | :--- | :---: |
+| **Machine Learning From Scratch** | Python, NumPy, Pandas | 9 algorithms implemented from scratch. | [🔗 View](link) |
+| **Superstore Discount** | Scikit-Learn, Streamlit | Discount predictor deployed via Streamlit. | [🔗 View](link) |
+| **Bank Customer Churn** | XGBoost, Power BI | Churn prediction & risk analysis. | [🔗 View](link) |
+
+## 📊 Data Analytics & BI
+| Project | Key Tech | Description | Link |
+| :--- | :--- | :--- | :---: |
+| **Netflix Movies & TV Shows** | SQL Server, Power BI | Star Schema modeling & dark-mode dashboard. | [🔗 View](link) |
+| **Customer Shopping Behavior** | Python, MySQL, Power BI | Customer segmentation & revenue drivers. | [🔗 View](link) |
+| **E-Commerce Sales Funnel** | SQL, Power BI, DAX | Conversion funnel drop-off analysis. | [🔗 View](link) |
+
+## 🧹 Data Engineering & Cleaning
+| Project | Key Tech | Description | Link |
+| :--- | :--- | :--- | :---: |
+| **Cafe Sales Data Cleaning** | Python, MySQL, Excel | Multi-platform cleaning pipeline for 10k rows. | [🔗 View](link) |
+| **Zepto E-Commerce** | PostgreSQL, SQL | Price anomaly resolution & EDA. | [🔗 View](link) |
 
 ### 📬 Contact Me
 
