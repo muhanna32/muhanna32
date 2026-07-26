@@ -48,7 +48,7 @@ Analytical Skills: Exploratory Data Analysis (EDA), Problem Solving, Statistical
 | **Machine Learning From Scratch** | Python, NumPy, Pandas, Matplotlib | **Educational ML & Data Science:** Implements 9 foundational algorithms from scratch.<br>Focuses on pure matrix operations, vectorization, and underlying math without high-level frameworks. | [🔗 View Code](https://github.com/muhanna32/ML-FROM-SCRATCH) |
 | **Bank Customer Churn** | Python, Scikit-Learn, XGBoost, SQL Server, Power BI | **Data Science & BI:** Predicts churn and calculates capital at risk using SQL and ML (XGBoost/Random Forest).<br>Features interactive Power BI retention dashboards for strategic business decision-making. | [🔗 View Code](https://github.com/muhanna32/Customer-Churn) |
 | **Superstore Discount Predictor** | Python, Scikit-Learn, Pandas, Streamlit | **Machine Learning & Web App:** Trains a Random Forest model to predict optimal discount rates from sales features.<br>Exported as a pipeline and deployed via Streamlit for real-time inference. | [🔗 View Code](https://github.com/muhanna32/SuperStore_Predict) |
-
+| **College Student Placement Prediction** | Python, Scikit-Learn, Pandas, Seaborn | **Machine Learning & Model Benchmarking:** Benchmarks 11 classification models to predict campus placement outcomes.<br>Includes deep analysis of feature importance, data leakage prevention, and synthetic data dynamics. | [🔗 View Code](https://github.com/muhanna32/college-student-placement-prediction) |
 ---
 
 ## 📊 Data Analytics & Business Intelligence
