@@ -41,12 +41,18 @@ Analytical Skills: Exploratory Data Analysis (EDA), Problem Solving, Statistical
 
 # 📂 Featured Projects & Portfolio
 
-## 🤖 Machine Learning & Data Science
+---
+---
+## 🔄 End-to-End Projects
+| Project | Key Tools & Tech | Description | Repository |
+| :--- | :--- | :--- | :---: |
+| **Employee Attrition Analytics, Prediction & Insights** | Python, Pandas, Scikit-Learn, SQL Server, Power BI, DAX | **Full-Stack Analytics Pipeline:** End-to-end workflow spanning data cleaning, feature engineering, and ML risk scoring through to a 3-page interactive Power BI dashboard.<br>Trains a classification model to predict individual attrition risk, then surfaces findings — overtime, income, satisfaction, and commute drivers — alongside a live risk-scored watchlist for HR action. | [🔗 View Code](https://github.com/muhanna32/Employee-Attrition-Analytics-Prediction-Insights) |
+| **Bank Customer Churn** | Python, Scikit-Learn, XGBoost, SQL Server, Power BI | **Full-Stack Analytics Pipeline:** Predicts customer churn and calculates capital at risk using SQL and ML (XGBoost/Random Forest).<br>Feeds model output into interactive Power BI retention dashboards, closing the loop from raw data to a business-ready decision tool. | [🔗 View Code](https://github.com/muhanna32/Customer-Churn) |
 
+## 🤖 Machine Learning & Data Science
 | Project | Key Tools & Tech | Description | Repository |
 | :--- | :--- | :--- | :---: |
 | **Machine Learning From Scratch** | Python, NumPy, Pandas, Matplotlib | **Educational ML & Data Science:** Implements 9 foundational algorithms from scratch.<br>Focuses on pure matrix operations, vectorization, and underlying math without high-level frameworks. | [🔗 View Code](https://github.com/muhanna32/ML-FROM-SCRATCH) |
-| **Bank Customer Churn** | Python, Scikit-Learn, XGBoost, SQL Server, Power BI | **Data Science & BI:** Predicts churn and calculates capital at risk using SQL and ML (XGBoost/Random Forest).<br>Features interactive Power BI retention dashboards for strategic business decision-making. | [🔗 View Code](https://github.com/muhanna32/Customer-Churn) |
 | **Superstore Discount Predictor** | Python, Scikit-Learn, Pandas, Streamlit | **Machine Learning & Web App:** Trains a Random Forest model to predict optimal discount rates from sales features.<br>Exported as a pipeline and deployed via Streamlit for real-time inference. | [🔗 View Code](https://github.com/muhanna32/SuperStore_Predict) |
 | **College Student Placement Prediction** | Python, Scikit-Learn, Pandas, Seaborn | **Machine Learning & Model Benchmarking:** Benchmarks 11 classification models to predict campus placement outcomes.<br>Includes deep analysis of feature importance, data leakage prevention, and synthetic data dynamics. | [🔗 View Code](https://github.com/muhanna32/college-student-placement-prediction) |
 ---
@@ -60,7 +66,7 @@ Analytical Skills: Exploratory Data Analysis (EDA), Problem Solving, Statistical
 | **E-Commerce Sales Funnel** | SQL, Power Query, DAX, Power BI | **Data Analytics & BI:** Analyzes 5,000 visitor journeys to identify conversion funnel drop-offs.<br>Provides actionable recommendations for marketing budget reallocation and ROI optimization. | [🔗 View Code](https://github.com/muhanna32/Ecommerce-Sales-Funnel-Analysis) |
 
 ---
-
+ 
 ## 🧹 Data Engineering & Cleaning
 
 | Project | Key Tools & Tech | Description | Repository |
